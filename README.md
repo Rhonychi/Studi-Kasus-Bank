@@ -1,4 +1,4 @@
-# Studi-Kasus-Bank
+# Studi-Kasus-Kartu-Kredit
 Tugas Kuliah Business Intelligent
 Roni Yoga W
 
